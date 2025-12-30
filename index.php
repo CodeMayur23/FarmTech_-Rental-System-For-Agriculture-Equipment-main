@@ -214,7 +214,7 @@ if(isset($_SESSION["uid"])){
 	<div class="box-container">
 		<div class="box">
 			<h3>FARMTECH</h3>
-			<p class="off"> <i class="fa fa-building-o"></i> Computer Dept., PHCET,PANVEL</p>
+			<p class="off"> <i class="fa fa-building-o"></i> Computer Dept.,SKNSITS,Lonavala</p>
 			<div class="share">
 				<a href="https://www.facebook.com/aaditya_mahajan_03" target="_blank" class="fab fa-facebook-f"></a>
 				<a href="https://twitter.com/aaditya_mahajan_03" target="_blank" class="fab fa-twitter"></a>
@@ -225,8 +225,8 @@ if(isset($_SESSION["uid"])){
 
 		<div class="box">
 			<h3>Contact Info</h3>
-			<a href="#" class="links"> <i class="fas fa-phone"></i> 9307227251 </a>
-			<a href="#" class="links"> <i class="fas fa-phone"></i> 9420077838 </a>
+			<a href="#" class="links"> <i class="fas fa-phone"></i>9322535081
+			<a href="#" class="links"> <i class="fas fa-phone"></i>desalemayur23@gmail
 			<a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&ifkv=ARZ0qKJ44eMdUj1t3CovyhRPrBOpaYgLmWu3aQk2lGe0F-MFASqISNGV-VXerilk0K9EAghlfWtD_A&theme=mn&ddm=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin" class="links"> <i class="fas fa-envelope"></i> mahajanaaditya50@gmail.com </a> 
 			<a href="https://www.google.com/maps/place/Pillai+HOC+College+Of+Engineering+%26+Technology/@18.8941071,73.1742673,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7e6af4a9b7a47:0x30dbd3b0d3c14416!8m2!3d18.8941071!4d73.1768422!16s%2Fg%2F11cn6dm3zp?entry=ttu&g_ep=EgoyMDI1MDIxMC4wIKXMDSoASAFQAw%3D%3D" class="links"> <i class="fas fa-map-marker-alt"></i> PANVEL, Maharashtra-410207,India </a>
 		</div>
@@ -239,7 +239,7 @@ if(isset($_SESSION["uid"])){
 			<a href="admin/index.php" class="links"> <i class="fas fa-arrow-right"></i> Admin/Vendor Login </a>
 		</div>
 	</div>
-	<div class="credit">Created by <span>PHCET Computer dept. Students </span> | All Rights Reserved </div>
+	<div class="credit">Created by <span>SKNSITS mputer dept. Students </span> | All Rights Reserved </div>
 </section>
 <div id="descModal" class="modal fade" role="dialog">
     <div class="modal-dialog">
